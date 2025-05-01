@@ -1,0 +1,15 @@
+
+
+/* General styles */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Replace the missing image with a gradient */
+.banner-bg {
+  background: linear-gradient(to right, #e91e63, #9c27b0);
+  /* Remove the reference to the missing image */
+  /* background-image: url('/public/images/banner-bg.jpg'); */
+}
